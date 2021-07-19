@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**BanuNathan/BanuNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Banu Nathan
+####  Data Science certifcate from [Rutgers University, NB](https://www.rutgers.edu)
 
-Here are some ideas to get you started:
+## Coding languages and Technologies
+<p float = "left">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow"/>
+  <img src="https://numpy.org/images/logos/numpy.svg" width = 48 height = 48 alt="numpy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width = 48 height = 48/>
+  <img src = "https://pytorch.org/assets/images/pytorch-logo.png" width = 48 height = 48 />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="visual studio"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" />
+  <img src="https://img.icons8.com/material-sharp/48/000000/github.png" alt="github"/>
+  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="excel"/>
+  <img src="https://img.icons8.com/color/48/000000/office-365.png" alt="ms office"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
