@@ -17,6 +17,13 @@
   <img src="https://img.icons8.com/material-sharp/48/000000/github.png" alt="github"/>
   <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="excel"/>
   <img src="https://img.icons8.com/color/48/000000/office-365.png" alt="ms office"/>
+  <img src="https://img.icons8.com/ios/50/000000/tableau-software.png"/>
+  <img src="https://static.vaadin.com/directory/user49537/icon/file2469829840847976158_1554291605811leaflet-directory-logo-example.png" width = 48 height = 48 />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width = 48 height = 48 />
+  <img src="https://img.icons8.com/color/452/mongodb.png" width = 48 height = 48 />
+
+
+  
 </p>
 
 
