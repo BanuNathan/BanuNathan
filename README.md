@@ -2,6 +2,12 @@
 # Banu Nathan
 ####  Data Science certifcate from [Rutgers University, NB](https://www.rutgers.edu)
 
+## Highlight Projects
+- [Housing Price Prediction](https://github.com/paulgarias/project3group03) - Built	a	model	to predict	the	sale	prices	of	houses	in	a	Seattle	suburb	using	machine-learning based multiple regression (built in Python), after	utilizing	scikit	to	evaluate	the	approach best	suited	for	the available	dataset. Utilized	Tableau	and	Plotly	for visualization of	relationships	between	the	variables	in	the	dataset.	
+- [Volcanic Activity Visualizer](https://github.com/ashante112/Project2-Team2) - Built an interactive and geographically accurate visualization of volcanic activities around the globe. Brought awareness to recent large-scale eruptions such as those of Saint Soufrere.
+
+
+
 ## Coding languages and Technologies
 <p float = "left">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS"/>
