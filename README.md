@@ -27,6 +27,8 @@
   <img src="https://static.vaadin.com/directory/user49537/icon/file2469829840847976158_1554291605811leaflet-directory-logo-example.png" width = 48 height = 48 />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width = 48 height = 48 />
   <img src="https://img.icons8.com/color/452/mongodb.png" width = 48 height = 48 />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width=48 height=48/>
+
 
 
   
