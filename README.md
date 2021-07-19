@@ -1,6 +1,6 @@
 
 # Banu Nathan
-####  Data Science certifcate from [Rutgers University, NB](https://www.rutgers.edu)
+####  Data Science certificate from [Rutgers University, NB](https://www.rutgers.edu)
 
 ## Highlight Projects
 - [Housing Price Prediction](https://github.com/paulgarias/project3group03) - Built	a	model	to predict	the	sale	prices	of	houses	in	a	Seattle	suburb	using	machine-learning based multiple regression (built in Python), after	utilizing	scikit	to	evaluate	the	approach best	suited	for	the available	dataset. Utilized	Tableau	and	Plotly	for visualization of	relationships	between	the	variables	in	the	dataset.	
