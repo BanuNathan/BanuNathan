@@ -5,7 +5,7 @@
 ## Highlight Projects
 - [Housing Price Prediction](https://github.com/BanuNathan/Seattle-House-Price-Predictor) - Built	a	model	to predict	the	sale	prices	of	houses	in	a	Seattle	suburb	using	machine-learning based multiple regression (built in Python), after	utilizing	scikit	to	evaluate	the	approach best	suited	for	the available	dataset. Utilized	Tableau	and	Plotly	for visualization of	relationships	between	the	variables	in	the	dataset.	
 - [Volcanic Activity Visualizer](https://github.com/ashante112/Project2-Team2) - Built an interactive and geographically accurate visualization of volcanic activities around the globe. Brought awareness to recent large-scale eruptions such as those of Saint Soufrere.
-
+- [Belly button Diversity Visulizer](https://github.com/BanuNathan/Interactive-Visualizations) - Built an interactive visualization exploring the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
 
 ## Coding languages and Technologies
